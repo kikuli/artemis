@@ -1,9 +1,9 @@
 env:
   project_id: "mcueezdanreockdj"
   repo: "https://github.com/farrukh90/artemis"
-  app_version: "1.0.0"
+  app_version: "2.0.0"
   repo_region: "us-central1"
-  app_name: "nodejs"
+  app_name: "artemis"
 
 name: ContinuousDelivery
 # Controls when the workflow will run
